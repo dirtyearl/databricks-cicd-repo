@@ -2,7 +2,7 @@
   "name": "CD pipeline",
   "existing_cluster_id": "1220-164806-u1uliyp9",
   "timeout_seconds": 1200,
-  "max_retries": 3,
+  "max_retries": 2,
   "notebook_task": {
     "notebook_path": "/Workspace/Users/edavis67@dxc.com/CICD Notebook"
   }
